@@ -2,8 +2,8 @@ Dataset format:
 site_name: str; represents measurement site
 timestamp: ISO8601
 state: str
-uplink: float; in Mbit/s
-downlink: float; in Mbit/s
+uplink: float; in bit/s
+downlink: float; in bit/s
 pop_ping_latency: float; in ms
 ping_drop: float; in %
 mean_ping_latency: float; in ms
